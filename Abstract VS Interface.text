@@ -1,0 +1,10 @@
+Abstract Class                                 |                           Interface
+1.Abstract class can have any access modifiers | 1.Interface can only have public members by default no need to write public.
+for members.                                   | 2.Interface cannot have defined method.
+2.Abstract class may or may not contain        | 3.Interface can only have static member variable.
+abstract method.                               | 4.Interface can only have final member variable.
+3.Abstract class can have static or non-static | 5.It don't have constructor.
+members.                                       |
+4.Abstract class can have final or non-final   |
+members.
+5.It have constructor.
